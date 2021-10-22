@@ -1,0 +1,31 @@
+{
+    "persons": [{
+        "id": 1,
+        "customName": "Peter",
+        "avatarUrl": "/src/assets/user_img.jpeg",
+
+        "textMessage": "Hello",
+        "notReadMessageCount": null
+    }, {
+        "id": 2,
+        "customName": "Alex",
+        "avatarUrl": "/src/assets/user_.jpg",
+
+        "textMessage": "Hello",
+        "notReadMessageCount": null
+    }, {
+        "id": 3,
+        "customName": "Viktoria",
+        "avatarUrl": "/src/assets/user_img1.jpeg",
+
+        "textMessage": "Hello",
+        "notReadMessageCount": null
+    }, {
+        "id": 4,
+        "customName": "Alice",
+        "avatarUrl": "/src/assets/user_img2.jpeg",
+
+        "textMessage": "Hello",
+        "notReadMessageCount": null
+    }]
+}

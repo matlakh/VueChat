@@ -1,0 +1,61 @@
+[{
+        "id": 1,
+        "textMessages": [{
+            "content": "Remember that spiders are more afraid of you, than you are of them.",
+            "data": "14-09-2018",
+            "time": "12:45:23",
+            "authorId": 1
+
+        }, {
+            "content": "making fake messages might be really boring",
+            "data": "14-09-2018",
+            "time": "08:23:23",
+            "authorId": 0
+        }]
+    },
+    {
+        "id": 2,
+        "textMessages": [{
+            "content": "Alway do anything for love, but don't do that.",
+            "data": "14-09-2018",
+            "time": "12:45:23",
+            "authorId": 2
+
+        }, {
+            "content": "making fake messages might be really boring",
+            "data": "14-09-2018",
+            "time": "08:23:23",
+            "authorId": 0
+        }]
+    },
+    {
+        "id": 3,
+        "textMessages": [{
+            "content": "If you are feeling down, try holding a pencil between your top lip and your nose for five minutes.",
+            "data": "14-09-2018",
+            "time": "12:45:23",
+            "authorId": 3
+
+        }, {
+            "content": "making fake messages might be really boring",
+            "data": "14-09-2018",
+            "time": "08:23:23",
+            "authorId": 0
+        }]
+    },
+    {
+        "id": 4,
+        "textMessages": [{
+            "content": "Plant a tree.",
+            "data": "14-09-2018",
+            "time": "12:45:23",
+            "authorId": 4
+
+        }, {
+            "content": "making fake messages might be really boring",
+            "data": "14-09-2018",
+            "time": "08:23:23",
+            "authorId": 0
+        }]
+    }
+]
